@@ -1,2 +1,2 @@
 # recriando-pagina-instagram
-Projeto DIO recriando página inicial do Instagram
+Projeto DIgital Innovation One, exercício de HTML e CSS, como parte integrante do Bootcamp ReactJs
